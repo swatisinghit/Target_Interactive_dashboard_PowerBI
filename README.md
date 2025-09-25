@@ -10,11 +10,10 @@
 ### 🛍️ Product & Seller Performance
 ![Product Belief Performance](Dashboard%20Images/Screenshot_ProductSellerPerformance.png)
 
-
 ### 🚚 Delivery and Review Analysis
 ![Delivery and Receiving](Dashboard%20Images/Screenshot_DeliveryAndReview.png)
 
 ### 📦 Freight and Payment Analysis
-![Freight and Department](Dashboard%20Images/Screenshot_FreightAndPaymentt.png)
+![Freight and Department](Dashboard%20Images/Screenshot_FreightAndPayment.png)
 
 

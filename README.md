@@ -16,6 +16,18 @@
 ### 📦 Freight and Payment Analysis
 ![Freight and Department](Dashboard%20Images/Screenshot_FreightAndPayment.png)
 
-**[📘 Read Full Dashboard Report Here](Target%20Brazil%20E-Commerce%20Performance%20Dashboard%20Report-%20Swati%20Singh.pdf)**
+---
+
+👉 👉 👉 ##📘 [Read Full Dashboard Report Here](Target%20Brazil%20E-Commerce%20Performance%20Dashboard%20Report-%20Swati%20Singh.pdf)##👈 👈 👈
+
+---
+
+## 👨‍💻 Author  
+**Swati Singh**  
+
+📧 [swati.autodidact@gmail.com](mailto:swati.autodidact@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/swatisinghlink/)  
+
+---
 
 

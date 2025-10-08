@@ -18,7 +18,7 @@
 
 ---
 
-👉 👉 👉 **📘 [Read Full Dashboard Report Here](Target%20Brazil%20E-Commerce%20Performance%20Dashboard%20Report-%20Swati%20Singh.pdf)**👈 👈 👈
+👉 👉 👉 **📘 [Read Full Dashboard Report Here](https://github.com/swatisinghit/Target_Interactive_dashboard_PowerBI)**👈 👈 👈
 
 ---
 
